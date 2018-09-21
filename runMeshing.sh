@@ -14,5 +14,6 @@ blockMesh
 surfaceFeatures 
 
 # do Snappy Hex Mesh....
-#snappyHexMesh
+snappyHexMesh -overwrite 
+
 
